@@ -1,1 +1,1 @@
-web gunicorn kril_to_latin.wsgi:application --log-file-
+web gunicorn kril_to_latin.wsgi
