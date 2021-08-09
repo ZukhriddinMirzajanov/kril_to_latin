@@ -1,4 +1,4 @@
-# kril_to_latin source code
+kril_to_latin source code
 =============================
 
 ## General info
